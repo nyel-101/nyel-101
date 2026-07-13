@@ -93,32 +93,47 @@ My goal is simple:
 
 ### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,python,php,java,c,kotlin"/>
+  <img src="https://skillicons.dev/icons?i=dart,python,php,java,c,kotlin,javascript,typescript"/>
+  <img src="https://img.shields.io/badge/BASIC-007ACC?style=for-the-badge&logo=basic&logoColor=white"/>
 </p>
 
 ### 🚀 Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,react,laravel,nodejs,express"/>
+  <img src="https://skillicons.dev/icons?i=flutter,react,laravel,nodejs,express,tailwind"/>
 </p>
 
 ### 🗄️ Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgresql,firebase,supabase"/>
 </p>
 
-### 🛠 Development & Design Tools
+### ☁️ Deployment & Hosting
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,docker,git,github,figma"/>
-  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify"/>
+  <img src="https://img.shields.io/badge/Hostinger-712CF9?style=for-the-badge&logo=hostinger&logoColor=white"/>
 </p>
 
-### ⚙️ Hardware & Prototyping
+### 🛠 Development & Environment Tools
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,docker,git,github"/>
+  <img src="https://img.shields.io/badge/Laragon-007ACC?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
+
+### 🎨 Wireframing, Design & Prototyping
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma"/>
   <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tinkercad-EE4726?style=for-the-badge&logo=tinkercad&logoColor=white"/>
 </p>
 
----
+### 📝 Documentation
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notepad-000000?style=for-the-badge&logo=notepad&logoColor=black&logoColor=white"/>
+</p>
+
 
 ## 🚀 Featured Projects
 
