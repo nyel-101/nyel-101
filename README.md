@@ -34,14 +34,15 @@ I am Daniel Prudenciado, a Software Engineer and the founder of CoreArch. I enjo
 ## Achievements
 | Event | Achievement |
 | :--- | :--- |
-| **Founder** | CoreArch |
-| **Excelerate** | 💼 Paid Mobile Engineering Intern |
-| **JTG Cyber Exercise** | 🥉 Top 3 Finalist |
-| **DICT Hack4Gov CTF** | 🏅 Top 7 Finalist |
-| **AI Factory Hackathon** | Finalist |
-| **AI Infra Summit Hackathon** | Finalist |
-| **DICT Project Pitch** | Finalist |
-| **2026 IEEE Computer Society Global Student Challenge** | Participant |
+| **Founder** | CoreArch - 2026 |
+| **Excelerate** | 💼 Paid Mobile Engineering Intern - 2026 |
+| **JTG Cyber Exercise** | 🥉 Top 3 Finalist - 2025 |
+| **DICT Hack4Gov CTF** | 🏅 Top 7 Finalist - 2025 |
+| **AI Factory Hackathon** | Finalist  - 2026 |
+| **AI Infra Summit Hackathon** | Finalist  - 2026 |
+| **AI GENESIS Hackathon** | Finalist - 2026  |
+| **DICT Project Pitch** | Finalist - 2024 |
+| **2026 IEEE Computer Society Global Student Challenge** | Participant  - 2026 |
 ---
 
 ## 🛠 Tech Stack
