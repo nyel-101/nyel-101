@@ -44,13 +44,13 @@ I am Daniel Prudenciado, a Software Engineer and the founder of CoreArch. I enjo
 ## 🛠 Tech Stack
 | Category | Skills |
 | :--- | :--- |
-| **LANGUAGES** | <img src="https://skillicons.dev/icons?i=dart,python,php,java,c,kotlin,typescript"/> |
+| **LANGUAGES** | <img src="https://skillicons.dev/icons?i=dart,python,php,java,c,kotlin,typescript,javascript"/> <img src="https://img.shields.io/badge/BASIC-007ACC?style=flat&logo=basic&logoColor=white"/> |
 | **FRONTEND** | <img src="https://skillicons.dev/icons?i=flutter,react,tailwind"/> |
 | **BACKEND** | <img src="https://skillicons.dev/icons?i=laravel,nodejs,express"/> |
 | **DATABASE** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgresql,firebase,supabase"/> |
 | **CLOUD & DEVOPS** | <img src="https://skillicons.dev/icons?i=vercel,netlify,docker,git"/> |
-| **UI/UX & DESIGN** | <img src="https://skillicons.dev/icons?i=figma"/> <img src="https://img.shields.io/badge/Draw.io-F08705?style=flat&logo=diagramsdotnet&logoColor=white"/> |
-
+| **TOOLS & IDEs** | <img src="https://skillicons.dev/icons?i=vscode,androidstudio"/> <img src="https://img.shields.io/badge/NetBeans-8BC34A?style=flat&logo=apachenetbeans&logoColor=white"/> <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=flat&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/QB64-000000?style=flat&logo=code&logoColor=white"/> |
+| **UI/UX & DESIGN** | <img src="https://skillicons.dev/icons?i=figma"/> <img src="https://img.shields.io/badge/Draw.io-F08705?style=flat&logo=diagramsdotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Tinkercad-EE4726?style=flat&logo=tinkercad&logoColor=white"/> |
 ---
 
 ##  Complete Projects
