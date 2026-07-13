@@ -34,8 +34,8 @@ I am Daniel Prudenciado, a Software Engineer and the founder of CoreArch. I enjo
 ## Achievements
 | Event | Achievement |
 | :--- | :--- |
-| **Excelerate** | 💼 Paid Mobile Engineering Intern |
 | **Founder** | CoreArch |
+| **Excelerate** | 💼 Paid Mobile Engineering Intern |
 | **JTG Cyber Exercise** | 🥉 Top 3 Finalist |
 | **DICT Hack4Gov CTF** | 🏅 Top 7 Finalist |
 | **AI Factory Hackathon** | Finalist |
