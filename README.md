@@ -97,44 +97,54 @@ My goal is simple:
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=dart,python,php,java,c,mysql"/>
+### 💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dart,python,php,java,c,kotlin"/>
 </p>
 
-### Mobile Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,kotlin,firebase,supabase"/>
+### 🚀 Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,react,laravel,nodejs,express"/>
 </p>
 
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,mongodb"/>
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase"/>
 </p>
 
-### Tools
+### 🛠 Development & Design Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,docker,git,github,figma"/>
+  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+</p>
 
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,androidstudio,docker,git,github,figma"/>
+### ⚙️ Hardware & Prototyping
+<p align="center">
+  <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tinkercad-EE4726?style=for-the-badge&logo=tinkercad&logoColor=white"/>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 📱 **Mobile Repair Shop Management System** | Java desktop application for repair shop operations |
-| 🎓 **Digits Central Processing System** | Student information management platform |
-| 🏨 **Hotel Management System** | Reservation and hotel management solution |
-| 💳 **PA-HULUGAN** | Neighborhood credit ledger platform |
-| ❤️ **Personal Health Recommendation System** | Health recommendation platform |
-| 📚 **Buhay Estudyante** | Flutter + Firebase student lifestyle application |
+### 💻 Software & Management Systems
+| Project | Stack | Repository |
+|:---|:---|:---|
+| **Mobile Repair Shop** | Java | [View Code](https://github.com/nyel-101/My-Mobile-Repair-Shop-Management-System) |
+| **Digits Central Processing** | Python / PHP | [View Code](https://github.com/nyel-101/Digits-Central-Processing-Management-System) |
+| **Hotel Management** | JavaScript | [View Code](https://github.com/nyel-101/Dan-Daniel-Hotel-Management-System) |
+| **PA-HULUGAN** | PHP | [View Code](https://github.com/nyel-101/PA-HULUGAN-A-Neighborhood-Micro-Installment-and-Credit-Ledger-System) |
+| **Health Recommendation** | PHP | [View Code](https://github.com/nyel-101/personal-health-recommendation-system) |
+
+### 🤖 Arduino Prototypes (Tinkercad Design)
+| Project | Components | Status |
+|:---|:---|:---|
+| **LED Blink** | Arduino, LED, Resistor | Completed |
+| **Potentiometer Control** | Arduino, LED, Potentiometer | Completed |
+| **Button LED Control** | Arduino, LED, Pushbutton | Completed |
 
 ---
 
@@ -153,8 +163,6 @@ My goal is simple:
 </p>
 
 ---
-
-
 
 # 🤝 Connect
 
