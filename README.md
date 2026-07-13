@@ -50,8 +50,6 @@ Building scalable software solutions, modern mobile applications, and impactful 
 
 # 👋 About Me
 
-I'm **Daniel Prudenciado**, a Software Engineer and the founder of **CoreArch**.
-
 I am Daniel Prudenciado, a Software Engineer and the founder of CoreArch. I enjoy building projects and learning along the way, with a strong focus on mobile development and creating impactful solutions. My professional philosophy centers on continuous learning and delivering software that solves complex, real-world problems.
 
 My interests include:
@@ -124,21 +122,30 @@ My goal is simple:
 
 ## 🚀 Featured Projects
 
-### 💻 Software & Management Systems
+#### 💻 Software & Management Systems
 | Project | Stack | Repository |
 |:---|:---|:---|
 | **Mobile Repair Shop** | Java | [View Code](https://github.com/nyel-101/My-Mobile-Repair-Shop-Management-System) |
-| **Digits Central Processing** | Python / PHP | [View Code](https://github.com/nyel-101/Digits-Central-Processing-Management-System) |
-| **Hotel Management** | JavaScript | [View Code](https://github.com/nyel-101/Dan-Daniel-Hotel-Management-System) |
+| **Digits Central Processing** | PHP | [View Code](https://github.com/nyel-101/Digits-Central-Processing-Management-System) |
+| **Hotel Management** | PHP / LARAVEL | [View Code](https://github.com/nyel-101/Dan-Daniel-Hotel-Management-System) |
 | **PA-HULUGAN** | PHP | [View Code](https://github.com/nyel-101/PA-HULUGAN-A-Neighborhood-Micro-Installment-and-Credit-Ledger-System) |
 | **Health Recommendation** | PHP | [View Code](https://github.com/nyel-101/personal-health-recommendation-system) |
 
-### 🤖 Arduino Prototypes (Tinkercad)
+#### 🤖 Arduino Prototypes (Tinkercad)
 | Project | Stack | Repository |
 |:---|:---|:---|
 | **LED Blink** | Arduino | [View Code](https://github.com/nyel-101/blink-and-led) |
 | **Potentiometer Control** | Arduino | [View Code](https://github.com/nyel-101/Control-LED-Blink-Rate-with-Potentiometer) |
 | **Button LED Control** | Arduino | [View Code](https://github.com/nyel-101/controlling-led-by-button) |
+
+#### 🐍 Python CRUD Systems & OOP Projects
+| Category | Projects |
+| :--- | :--- |
+| **Data & Financial** | [Weight Converter](https://github.com/nyel-101/weight_converter), [Student Grade](https://github.com/nyel-101/studentgrade), [Compound Interest](https://github.com/nyel-101/CompundinterestCalculator), [Music Analytics](https://github.com/nyel-101/music_track_analytics) |
+| **Modeling & Entities** | [Bank Account](https://github.com/nyel-101/bank_acc), [Laptop](https://github.com/nyel-101/laptop), [Car/Truck](https://github.com/nyel-101/car-truck), [Computer Parts](https://github.com/nyel-101/computer_parts), [Inventory](https://github.com/nyel-101/inventory_item), [Employee](https://github.com/nyel-101/employee), [User Profile](https://github.com/nyel-101/user_profile) |
+| **Logic & Utilities** | [Todo List](https://github.com/nyel-101/todo-list), [Smart Thermostat](https://github.com/nyel-101/SmartThermostat), [Madlibs Game](https://github.com/nyel-101/madlibs_game), [Substring](https://github.com/nyel-101/substring), [Logical Operator](https://github.com/nyel-101/Logical_operator) |
+
+> **Note:** These Python projects demonstrate my focus on implementing CRUD operations, modular code architecture, and core Object-Oriented Programming (OOP) principles.
 ---
 
 # 📊 GitHub Analytics
