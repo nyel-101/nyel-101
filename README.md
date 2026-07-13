@@ -122,6 +122,12 @@ My goal is simple:
 
 ## 🚀 Featured Projects
 
+#### 📱 Mobile Applications
+| Project | Stack | Repository |
+|:---|:---|:---|
+| **Buhay Estudyante** | Flutter | [View Code](https://github.com/nyel-101/buhay-estudyante) |
+| **Excelerate Internship Support App** | Flutter | [View Code](https://github.com/FlutterExcelerate/Excelerate-Internship-Support-App) |
+
 #### 💻 Software & Management Systems
 | Project | Stack | Repository |
 |:---|:---|:---|
