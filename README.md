@@ -53,7 +53,7 @@ I am Daniel Prudenciado, a Software Engineer and the founder of CoreArch. I enjo
 | **UI/UX & DESIGN** | <img src="https://skillicons.dev/icons?i=figma"/> <img src="https://img.shields.io/badge/Draw.io-F08705?style=flat&logo=diagramsdotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Tinkercad-EE4726?style=flat&logo=tinkercad&logoColor=white"/> |
 ---
 
-##  Complete Projects
+##    Projects
 
 #### 📱 Mobile Applications
 | Project | Stack | Repository |
