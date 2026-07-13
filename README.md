@@ -139,13 +139,12 @@ My goal is simple:
 | **PA-HULUGAN** | PHP | [View Code](https://github.com/nyel-101/PA-HULUGAN-A-Neighborhood-Micro-Installment-and-Credit-Ledger-System) |
 | **Health Recommendation** | PHP | [View Code](https://github.com/nyel-101/personal-health-recommendation-system) |
 
-### 🤖 Arduino Prototypes (Tinkercad Design)
-| Project | Components | Status |
+### 🤖 Arduino Prototypes (Tinkercad)
+| Project | Stack | Repository |
 |:---|:---|:---|
-| **LED Blink** | Arduino, LED, Resistor | Completed |
-| **Potentiometer Control** | Arduino, LED, Potentiometer | Completed |
-| **Button LED Control** | Arduino, LED, Pushbutton | Completed |
-
+| **LED Blink** | Arduino | [View Code](https://github.com/nyel-101/blink-and-led) |
+| **Potentiometer Control** | Arduino | [View Code](https://github.com/nyel-101/Control-LED-Blink-Rate-with-Potentiometer) |
+| **Button LED Control** | Arduino | [View Code](https://github.com/nyel-101/controlling-led-by-button) |
 ---
 
 # 📊 GitHub Analytics
