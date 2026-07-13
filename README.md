@@ -157,6 +157,13 @@ My goal is simple:
 
 ---
 
+## 💡 Developer Workflow
+*   **Discoverability:** All my projects are tagged with relevant **Repository Topics** to ensure they appear in technical searches.
+*   **Activity Visibility:** My profile is configured to display both public and **private contributions**, ensuring a transparent view of my daily development momentum and consistency.
+
+---
+
+
 # 🤝 Connect
 
 <p>
