@@ -4,12 +4,6 @@
 <!-- ======================= BANNER ======================= -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F172A,100:2563EB&section=header"/>
 
-<div align="center">
-  <img src="https://scontent.fceb1-5.fna.fbcdn.net/v/t39.30808-6/731843465_986730434206870_4138013023878241029_n.jpg?stp=dst-jpg_tt6&cstp=mx1536x1549&ctp=s1536x1549&_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeF5ioZCQdbiQjDSNtcOetKXqkcZr1tgSKOqRxmvW2BIo6P33rjO3-JX266oNoV6gXFgL3asusI4q3ttzcj1EAEo&_nc_ohc=LWOWZZinzT0Q7kNvwF-H4NG&_nc_oc=Adr2LwMRaFxOb1mu2Ps6JCjEqrvmMflAl4hssbmyG6jflsYq3yQ8ooWuvZ9mZNuZNtY&_nc_zt=23&_nc_ht=scontent.fceb1-5.fna&_nc_gid=4GmfVSS0s1K44STjBauDUA&_nc_ss=7b2a8&oh=00_AQCg60jcV7FgZzgU6OSBtLItuUUTc4USJxN1uXHUy5RS4A&oe=6A5A4C4F" 
-       width="200px" 
-       height="200px" 
-       style="border-radius: 50%; object-fit: cover; border: 4px solid #2563EB;" 
-       alt="Daniel Prudenciado"/>
 </div>
 
 <br><br>
